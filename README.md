@@ -69,6 +69,7 @@ F1-Curve:
 
 -------
 Accuracy Curve:
+
 <img width="700" height="450" alt="accuracy_curve" src="https://github.com/user-attachments/assets/52172710-0395-487b-bde4-53463e3bbb5f" />
 
 ------
