@@ -50,22 +50,28 @@ This repository contains a complete deep learning pipeline for **breast cancer c
 └── requirements.txt
 
 ## Output Images:
+-----
 Precision-Recall Curve:
-<img width="700" height="600" alt="precision_recall_curve" src="https://github.com/user-attachments/assets/e9cf4a1c-e329-426b-961b-e418950e561e" />
 
+
+<img width="700" height="450" alt="precision_recall_curve" src="https://github.com/user-attachments/assets/e9cf4a1c-e329-426b-961b-e418950e561e"/>
+
+-----
 
 Loss Curve:
-<img width="700" height="600" alt="loss_curve" src="https://github.com/user-attachments/assets/6b6c4e0b-0d93-42d5-817f-683bc9ac429f" />
 
+<img width="700" height="450" alt="loss_curve" src="https://github.com/user-attachments/assets/6b6c4e0b-0d93-42d5-817f-683bc9ac429f" />
 
+------
 F1-Curve:
-<img width="700" height="600" alt="f1_curve" src="https://github.com/user-attachments/assets/30fa0c79-549d-4fe4-bb22-732cedfb3f3e" />
 
+<img width="700" height="4500" alt="f1_curve" src="https://github.com/user-attachments/assets/30fa0c79-549d-4fe4-bb22-732cedfb3f3e" />
 
+-------
 Accuracy Curve:
-<img width="700" height="600" alt="accuracy_curve" src="https://github.com/user-attachments/assets/52172710-0395-487b-bde4-53463e3bbb5f" />
+<img width="700" height="450" alt="accuracy_curve" src="https://github.com/user-attachments/assets/52172710-0395-487b-bde4-53463e3bbb5f" />
 
-
+------
 
 
 ## 📦 Requirements
@@ -85,7 +91,17 @@ Install all packages:
 ```bash
 pip install -r requirements.txt
 ```
+-------
 ##📬 Contact:
+
 Developed by Md Mehedi Hasan
-Email: mehedi.hasan.ict@mbstu.ac.bd
+
+
+Email: [mehedi.hasan.ict@mbstu.ac.bd](mehedi.hasan.ict@mbstu.ac.bd) | [mehedi.hasan.ict13@gmail.com](mehedi.hasan.ict13@gmail.com)
+
+
+Phone: +8801789113669 | +8801334110929
+
+
+
 Institution: [GIIT University / IdeaVerse / MBSTU]
