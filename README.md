@@ -26,6 +26,7 @@ This repository contains a complete deep learning pipeline for **breast cancer c
 
 ---
 ##🚀 Project Structure
+```bash
 ├── dataset/
 │   ├── mass_case_description_train_set.csv
 │   ├── calc_case_description_train_set.csv
@@ -48,7 +49,7 @@ This repository contains a complete deep learning pipeline for **breast cancer c
 ├── main.py
 ├── README.md
 └── requirements.txt
-
+```
 ## Output Images:
 -----
 Precision-Recall Curve:
@@ -73,6 +74,7 @@ Accuracy Curve:
 <img width="700" height="450" alt="accuracy_curve" src="https://github.com/user-attachments/assets/52172710-0395-487b-bde4-53463e3bbb5f" />
 
 ------
+<img width="700" height="400" alt="cbis_ddsm_gradcam_examples" src="https://github.com/user-attachments/assets/35c6bfbe-326c-47a1-a8c3-cf50a15fdf3d" />
 
 
 ## 📦 Requirements
